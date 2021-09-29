@@ -1,6 +1,12 @@
 # LearningAlgorithms
 #60DaysOfAlgorithms - This is a repo for those who wants study algorithms or people who are into Data Structures can use this repo to learn about different types of algorithms.
 
+  -> This will get completed in 50 to 60 days with 30-40 pages per day, but you can learn at your own pace.
+  -> You can share your own notes in your social media handles(learning in public).
+  -> This is not related to any bootcamp or course.
+  -> You can make your repo with hand-written or digital notes and can share to help people.
+  -> You are not limited to this book, can use any resource for your help.
+  
 --------------------------------------------------------------------------------------------------
 -> Syllabus (Introduction to Algorithms, Cormen - book used)
 
