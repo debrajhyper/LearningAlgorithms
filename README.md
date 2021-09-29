@@ -404,6 +404,7 @@ VII Selected Topics
 VIII Appendix: Mathematical Background
 
   Introduction
+  
     A Summations
       A.1 Summation formulas and properties
       A.2 Bounding summations
