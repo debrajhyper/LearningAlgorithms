@@ -53,7 +53,9 @@ I Foundations
     * 5.4 Probabilistic analysis and further uses of indicator random variables
 
 -------------------------------------------------------------------------------------------------------
+
 II Sorting and Order Statistics
+
 Introduction
 6 Heapsort
 6.1 Heaps 151
@@ -75,8 +77,10 @@ Introduction
 9.1 Minimum and maximum
 9.2 Selection in expected linear time
 9.3 Selection in worst-case linear time
+-------------------------------------------
 
 III Data Structures
+
 Introduction
 10 Elementary Data Structures
 10.1 Stacks and queues
@@ -103,8 +107,10 @@ Introduction
 14.1 Dynamic order statistics
 14.2 How to augment a data structure
 14.3 Interval trees
+------------------------------------------
 
 IV Advanced Design and Analysis Techniques
+
 Introduction 
 15 Dynamic Programming 
 15.1 Rod cutting
@@ -123,8 +129,10 @@ Introduction
 17.2 The accounting method
 17.3 The potential method
 17.4 Dynamic tables
+--------------------------------------------
 
 V Advanced Data Structures
+
 Introduction
 18 B-Trees
 18.1 Definition of B-trees
@@ -143,9 +151,11 @@ Introduction
 21.1 Disjoint-set operations
 21.2 Linked-list representation of disjoint sets
 21.3 Disjoint-set forests
-? 21.4 Analysis of union by rank with path compression
+* 21.4 Analysis of union by rank with path compression
+-----------------------------------------------
 
 VI Graph Algorithms
+
 Introduction
 22 Elementary Graph Algorithms
 22.1 Representations of graphs
@@ -170,10 +180,12 @@ Introduction
 26.1 Flow networks
 26.2 The Ford-Fulkerson method
 26.3 Maximum bipartite matching
-? 26.4 Push-relabel algorithms
-? 26.5 The relabel-to-front algorithm
+* 26.4 Push-relabel algorithms
+* 26.5 The relabel-to-front algorithm
+--------------------------------------
 
 VII Selected Topics
+
 Introduction
 27 Multithreaded Algorithms
 27.1 The basics of dynamic multithreading
