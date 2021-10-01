@@ -1,15 +1,12 @@
 # LearningAlgorithms
 #60DaysOfAlgorithms - This is a repo for those who wants study algorithms or people who are into Data Structures can use this repo to learn about different types of algorithms.
 
-  -> This will get completed in 50 to 60 days with 30-40 pages per day, but you can learn at your own pace.
-  
-  -> You can share your own notes in your social media handles(learning in public).
-  
-  -> This is not related to any bootcamp or course.
-  
-  -> You can make your repo with hand-written or digital notes and can share to help people.
-  
-  -> You are not limited to this book, can use any resource for your help.
+Instructions:-
+  - This will get completed in 50 to 60 days with 30-40 pages per day, but you can learn at your own pace.
+  - You can share your own notes in your social media handles(learning in public).
+  - This is not related to any bootcamp or course.
+  - You can make your repo with hand-written or digital notes and can share to help people.
+  - You are not limited to this book, can use any resource for your help.
   
 How to study:-
  1. I will upload maximum of 50 pages per day.
@@ -17,8 +14,15 @@ How to study:-
  3. This repo is only to help you to read books or stuff and you should be able to resolve doubts on your own.
  4. Pages will be Uploaded two times : 1st-upload -> around 12-1pm and 2nd-upload -> around 6-8pm.
  5. No. of pages will not exceed 50 per day.
- 6. If you all still want to connect folks, join the telegram group - t.me/joinchat/WAqL-T_VVlk5NTY1
+ 6. If you all still want to connect folks, join the telegram group - https://t.me/joinchat/SYfeI9zUKrFhODk1
  7. All the best. 
+
+Benefits:-
+ 1. You will learn how to resolve a doubt and learn stuff on your own.
+ 2. You will develop a reading habit, even if it's digital.
+ 3. You will manage time to complete this book on your own.
+ 4. You will know how to manage time while writing notes by noticing what should be written in notes.
+ 5. You are awesome in every way, You can take as much time you need to complete this book. 
 --------------------------------------------------------------------------------------------------
 -> Syllabus (Introduction to Algorithms, Cormen - book used)
 
