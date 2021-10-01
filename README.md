@@ -17,7 +17,8 @@ How to study:-
  3. This repo is only to help you to read books or stuff and you should be able to resolve doubts on your own.
  4. Pages will be Uploaded two times : 1st-upload -> around 12-1pm and 2nd-upload -> around 6-8pm.
  5. No. of pages will not exceed 50 per day.
- 6. All the best. 
+ 6. If you all still want to connect folks, join the telegram group - t.me/joinchat/WAqL-T_VVlk5NTY1
+ 7. All the best. 
 --------------------------------------------------------------------------------------------------
 -> Syllabus (Introduction to Algorithms, Cormen - book used)
 
