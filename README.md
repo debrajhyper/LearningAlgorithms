@@ -11,6 +11,13 @@
   
   -> You are not limited to this book, can use any resource for your help.
   
+How to study:-
+ 1. I will upload maximum of 50 pages per day.
+ 2. Nobody is teaching here, You have to read and study on your own.
+ 3. This repo is only to help you to read books or stuff and you should be able to resolve doubts on your own.
+ 4. Pages will be Uploaded two times : 1st-upload -> around 12-1pm and 2nd-upload -> around 6-8pm.
+ 5. No. of pages will not exceed 50 per day.
+ 6. All the best. 
 --------------------------------------------------------------------------------------------------
 -> Syllabus (Introduction to Algorithms, Cormen - book used)
 
